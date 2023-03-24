@@ -1,7 +1,7 @@
 # JBT_FunctionalAnnotation
 Supporting Materials for GBIRG Functional Annotation Study
 
-This repository contains data and code used in:
+This repository contains data and code used it prepare:
 
 Whittaker CA, Kucukural A, Gates C, et al. Functional Annotation Routines 
 Used by ABRF Bioinformatics Core Facilities - Observations, Comparisons, and 
